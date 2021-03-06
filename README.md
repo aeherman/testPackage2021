@@ -1,0 +1,1 @@
+This package was created to follow along with the fifth homework assignment for Modern Data Structures with Professor Parrott in Spring 2021.  It was created following the steps listed [here](https://r-pkgs.org/git.html), written by Hadley Wickham and Jenny Bryan.
