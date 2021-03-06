@@ -16,6 +16,6 @@
 #' fac2 <- factor("working")
 #' fbind(fac, fac2)
 fbind <- function(fac, fac2) {
-  library(magrittr, "%>%")
+  #library(magrittr, "%>%")
   c(as.character(fac), as.character(fac2)) %>% factor()
 }
