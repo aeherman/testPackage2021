@@ -9,6 +9,7 @@
 #'
 #' @return factor
 #' @export
+#' @importFrom magrittr %>%
 #'
 #' @examples
 #' fac <- factor(c("is", "the", "function"))
